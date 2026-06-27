@@ -1,0 +1,9 @@
+# requirements.txt
+torch>=2.0.0
+numpy>=1.24.0
+gymnasium>=0.29.0
+pettingzoo>=1.19.0
+tqdm>=4.66.0
+scipy>=1.11.0
+pygame>=2.5.0
+streamlit>=1.30.0
