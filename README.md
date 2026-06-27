@@ -50,5 +50,5 @@ If you have trained a model by running `python train_maddpg.py`, you can also ch
   streamlit run app.py
   ```
   ### Demo Match
-  ![Demo Match](assets\image.jpg)
+  ![Demo Match](assets/image.jpg)
 
