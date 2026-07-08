@@ -1,6 +1,6 @@
 ## Project Overview
 
-This project implements Multi-Agent Deep Deterministic Policy Gradient (MADDPG) for a robot soccer environment. It involves training multiple agents to play soccer cooperatively.
+This project implements Multi-Agent Deep Deterministic Policy Gradient (MADDPG) for a Robot soccer environment. It involves training multiple agents to play soccer cooperatively.
 
 ## High-Level Code Architecture and Structure
 
