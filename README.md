@@ -2,7 +2,7 @@
 
 This project implements Multi-Agent Deep Deterministic Policy Gradient (MADDPG) for a robot soccer environment. It involves training multiple agents to play soccer cooperatively.
 
-## High-Level Code Architecture and Structure
+## High-Level Code Architecture and Structure 
 
 - `**robot_soccer_env.py**`: Defines the `RobotSoccerEnv` using `gymnasium` and `pettingzoo`, providing a multi-agent environment for soccer.
 - `**agents/maddpg_agent.py**`: Contains the core MADDPG algorithm implementation, including actor and critic networks, replay buffer, and learning logic.
